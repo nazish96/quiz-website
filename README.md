@@ -11,7 +11,7 @@ remove all the files from src folder
 download Quizbee_src.zip and index.js
 paste both to the src folder of your react project (quizbee)
 to upload screenshot
-![Alt text](https://github.com/nazish96/quiz-website/blob/main/img.png)
+"![Alt text](https://github.com/nazish96/quiz-website/blob/main/img.png)"
 
 ![Alt text](https://github.com/nazish96/quiz-website/blob/main/Screenshot%20(11).png)
 
